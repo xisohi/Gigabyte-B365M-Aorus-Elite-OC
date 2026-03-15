@@ -4,5 +4,6 @@
 # 集成声卡：Realtek ALC892
 # 集成网卡：Intel 219
 # 无线网卡：奋威T919 BCM94360CD
+# 硬盘：3400 NVMe SSD | Micron Technology Inc.（美光）
 # 系统：macOS Sequoia 15.7.4 (24G517)
 ![img.png](img.png)
