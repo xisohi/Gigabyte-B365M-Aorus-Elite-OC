@@ -157,25 +157,19 @@
                     <key>device-id</key>
                     <data>mz4AAA==</data>
                     <key>framebuffer-con0-alldata</key>
-                    <data>AQIKAADIAwAA</data>
+                    <data>AAIJAADIAwAA</data>
                     <key>framebuffer-con0-enable</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-con0-type</key>
-                    <data>AAgAAA==</data>
+                    <data>AAQAAA==</data>
                     <key>framebuffer-con2-alldata</key>
-                    <data>AQUKAADIAwAA</data>
+                    <data>AgULAADIAwAA</data>
                     <key>framebuffer-con2-enable</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-con2-type</key>
                     <data>AAgAAA==</data>
-                    <key>framebuffer-fbmem</key>
-                    <data>AADAQAA=</data>
                     <key>framebuffer-patch-enable</key>
                     <data>AQAAAA==</data>
-                    <key>framebuffer-stolenmem</key>
-                    <data>AACAQAA=</data>
-                    <key>framebuffer-unifiedmem</key>
-                    <data>AAAAgA==</data>
                 </dict>
             </dict>
             <key>Delete</key>
@@ -897,6 +891,8 @@
                     <string>By RapidEFI</string>
                     <key>Enabled</key>
                     <true/>
+                    <key>HideVerbose</key>
+                    <false/>
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
@@ -909,6 +905,8 @@
                     <string>By RapidEFI</string>
                     <key>Enabled</key>
                     <true/>
+                    <key>HideVerbose</key>
+                    <false/>
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
@@ -921,6 +919,8 @@
                     <string>By RapidEFI</string>
                     <key>Enabled</key>
                     <true/>
+                    <key>HideVerbose</key>
+                    <false/>
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
@@ -933,6 +933,8 @@
                     <string>By RapidEFI</string>
                     <key>Enabled</key>
                     <true/>
+                    <key>HideVerbose</key>
+                    <false/>
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
